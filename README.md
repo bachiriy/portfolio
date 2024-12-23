@@ -4,11 +4,7 @@ My personal portfolio website showcasing my professional journey, projects, and 
 
 ## ⭐ Attribution
 
-This portfolio is a fork of [Brittany Chiang's portfolio](https://brittanychiang.com). I want to give proper credit to Brittany for her excellent work and design. If you're interested in using this design, please:
-- Give credit where credit is due
-- Link back to [brittanychiang.com](https://brittanychiang.com)
-- Don't claim the design as your own
-
+This portfolio is a fork of [Brittany Chiang's portfolio](https://brittanychiang.com). I want to give proper credit to Brittany for her excellent work and design. 
 Thank you Brittany for making your work open source! 
 
 ## What's Inside
