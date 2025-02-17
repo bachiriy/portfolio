@@ -15,6 +15,7 @@ font-size: 18px;
 cursor: URL("../../assets/img/cursor/cursor.png"), auto !important;
 }
 body {
+background: rgb(10, 10, 10);
 margin: 0;
 padding: 0;
 border: none;
@@ -23,7 +24,9 @@ line-height: 1.15;
 font-size: 16px;
 }
 .background-alt {
-background: #F5F5F5;
+// background: #F5F5F5;
+rgb(225, 140, 55);
+background: rgb(225, 140, 55);
 margin: 0;
 padding: 0;
 border: none;
